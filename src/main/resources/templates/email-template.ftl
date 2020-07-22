@@ -15,17 +15,17 @@
 							style="background-color: #d3be6c; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #000000; padding: 0px 15px 10px 15px;">
 							
 							<div style="font-size: 48px; color:blue;">
-								<b>Java Techie</b>
+								<b>YEY!!</b>
 							</div>
 							
 							<div style="font-size: 24px; color: #555100;">
-								<br> Sending Email using Spring Boot with <b>FreeMarker
-									template !!! <br>
+								<br> Selamat sore! <b>FreeMarker
+									horee !!! <br>
 							</div>
 							<div>
-								<br> Java Techie is a channel where we create and publish
-								videos on<br> 'how to' about latest technology trends like<br>
-								spring ,spring boot ,hibernate , web services and micro service
+								<br> KP UKSW BATCH 2
+                                                                <br> disini ada Kodev, Kak Aqira, kak dhanu dan Dhanu!
+                                                                <br>kami semua bahagia dan bersemangat! yey
 								<br> ""This channel is created to share the knowledge and
 								to gain the knowledge"<br>
 								<br>"Sharing the knowledge is biggest learning" <br> <br>
